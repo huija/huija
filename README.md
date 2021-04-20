@@ -6,4 +6,4 @@
 - 😄 Skills: `Go,Java,Linux,MySQL,Redis,Mongo,Kafka,PG...`
 - ⚡ WeChat Public Account: `从入门到删库跑路`
 
-![](https://images3.alphacoders.com/676/thumbbig-676742.jpg)
+![](https://huija.github.io/images/dog.jpg)
